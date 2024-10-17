@@ -1,4 +1,4 @@
-# Github-Worksho
+# Github-Workshop
 ### Forking
 Press the fork button at the top right and name it
 
@@ -11,14 +11,15 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Give it a name
 
 ### First commit
-- [ ] Check this to make a change
+- Write something here: 
 
 * You can open the repo by going to repository and then open in explorer. (Can also press Ctrl+Shift+A to open in text editor)
 * Open the readme.md
-* Tick the checkmark above by putting an x between the brackets
+* Write something in the line above
 * Save and then open github desktop
 * You will see a change on the left
 * Give it a commit message and press commit
+* Then press push to origin in top right
 
 ### Pull Requests
 * Press Preview Pull Request
@@ -39,4 +40,19 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Go to github and press edit on the readme.md
 * Check the checkbox above
 * Press commit changes
-* Now go to github desktop and press pull origin
+* Now go to github desktop and fetch origin
+* The press pull origin
+
+### Going to an Old Version
+* Go to History on the left
+* Right click on the commit where you forked the branch and press checkout commit
+* Now you are on an old commit
+* Make a new branch
+* Edit the readme with in the first commit and write something different than what you wrote before
+* Commit and Push
+* Then make a pull request
+* You will have a merge conflict
+* Try to merge the pull request and press on resolve conflicts
+* Delete the text you don't want
+* Press reolve conflict
+* Then Merge the pull request
