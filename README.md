@@ -13,5 +13,11 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 ### First commit
 - [ ] Check this to make a change
 
-* Check the checkmark above by putting an x between the brackets
-* Then
+* You can open the repo by going to repository and then open in explorer. (Can also press Ctrl+Shift+A to open in text editor)
+* Open the readme.md
+* Tick the checkmark above by putting an x between the brackets
+* Save and then open github desktop
+* You will see a change on the left
+* Give it a commit message and press commit
+
+### 
