@@ -1,4 +1,4 @@
-# Github-Workshop
+# Github-Worksho
 ### Forking
 Press the fork button at the top right and name it
 
