@@ -18,13 +18,18 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Write something in the line above
 * Save and then open github desktop
 * You will see a change on the left
+
+### Pushing
+* Press Publish branch
 * Give it a commit message and press commit
 * Then press push to origin in top right
 
 ### Pull Requests
 * Press Preview Pull Request
 * Press Create Pull Request
-* Finish the pull request description and name on github and create the pull request
+* Finish the pull request description and name on github
+* Make sure that at the top right you choose the main branch you want to merge to, not the thigamore/github-workshop, instead <user>/github-workshop
+* and create the pull request
 * Then, if you press pull requests on github, you can see all the pull requests that lets you merge (combine) the two branches
 
 ### Merge
