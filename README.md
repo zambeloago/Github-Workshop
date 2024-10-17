@@ -20,4 +20,23 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * You will see a change on the left
 * Give it a commit message and press commit
 
-### 
+### Pull Requests
+* Press Preview Pull Request
+* Press Create Pull Request
+* Finish the pull request description and name on github and create the pull request
+* Then, if you press pull requests on github, you can see all the pull requests that lets you merge (combine) the two branches
+
+### Merge
+* Create a new branch
+* Make a new file in that branch
+* Go to github desktop, press current branch and choose the main
+* Then go back to current branch, and at the bottom there is a button to merge into main
+* Choose the new branch and make a merge commit
+
+### Pulling
+- [ ] Check this in github
+
+* Go to github and press edit on the readme.md
+* Check the checkbox above
+* Press commit changes
+* Now go to github desktop and press fetch origin at top left or pull if you see it
