@@ -39,4 +39,4 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Go to github and press edit on the readme.md
 * Check the checkbox above
 * Press commit changes
-* Now go to github desktop and press fetch origin at top left or pull if you see it
+* Now go to github desktop and press pull origin
